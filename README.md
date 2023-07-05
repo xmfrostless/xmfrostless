@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ![Jenocn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jenocn&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=onedark&hide=javascript,html)
