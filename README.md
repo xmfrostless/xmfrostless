@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenocn&hide=html&layout=compact&theme=onedark)
 <!-- ![Jenocn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jenocn&show_icons=true) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jenocn&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Jenocn's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jenocn&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
